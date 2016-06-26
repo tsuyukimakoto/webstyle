@@ -8,10 +8,11 @@
   "description": "web styles for tsuyukimakoto",
   "license": "BSD-3-Clause",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp styles"
   },
   "devDependencies": {
     "autoprefixer": "^6.3.6",
+    "basscss": "^8.0.1",
     "cssnano": "^3.7.1",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.1",
